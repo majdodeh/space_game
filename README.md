@@ -29,7 +29,7 @@ Use the arrows keys(Up, Down, Left, Right) to move the cow and tap "Space" to sh
 
 > Press Q or ESC to quit the game
 
-==================
+
 Requirements and Installation
 ==================
 
@@ -55,7 +55,7 @@ To execute and run the game simply open a terminal in its directory and type:
 
 > $ bin/spacecow_sdl to lunch the graphic version
 
-==================
+
 Documentation
 ==================
 
@@ -65,7 +65,7 @@ To re-generate the documentation just open terminal at game folder and type:
 > $ make doc
 
 
-==================
+
 Archive contents
 ==================
 
@@ -89,7 +89,7 @@ Archive contents
 
 > README.txt : this file.
 
-==================
+
 Troubleshooting
 ==================
 
@@ -103,7 +103,7 @@ You can re-compile the game by typing in terminal:
 You can clean the .Object files and the executables of the game by typing in terminal:
 > $ make clean
 
-==================
+
 Built using
 ==================
 
